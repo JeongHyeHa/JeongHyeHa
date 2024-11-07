@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogilsang&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)﻿
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=hajeonghye)](https://solved.ac/hajeonghye)
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongHyeHa&langs_count=10&layout=compact&theme=dark)](https://github.com/JeongHyeHa/JeongHyeHa)﻿
