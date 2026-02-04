@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=hajeonghye)](https://solved.ac/hajeonghye)
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongHyeHa&langs_count=10&layout=compact&theme=dark)](https://github.com/JeongHyeHa/JeongHyeHa)﻿
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongHyeHa&langs_count=10&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
