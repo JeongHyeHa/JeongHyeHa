@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=hajeonghye)](https://solved.ac/hajeonghye)
 [![Programmers](https://img.shields.io/badge/Programmers-003866?style=flat&logo=Programmers&logoColor=white)](https://programmers.co.kr/)
-![JeongHyeHa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongHyeHa&layout=compact&theme=radical)
+
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongHyeHa&layout=compact&theme=dark)
 -- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongHyeHa&langs_count=10&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)>
