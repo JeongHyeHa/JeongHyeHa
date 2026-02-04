@@ -14,6 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=hajeonghye)](https://solved.ac/hajeonghye)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongHyeHa&langs_count=10&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+# 🚀 JeongHyeHa's Profile
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=hajeonghye)](https://solved.ac/hajeonghye)
+
+<a href="https://programmers.co.kr/u/본인아이디">
+  <img src="https://img.shields.io/badge/Programmers-003866?style=flat&logo=Programmers&logoColor=white"/>
+</a>
+
+---
+
+### 🛠 Tech Stack
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongHyeHa&langs_count=10&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)>
